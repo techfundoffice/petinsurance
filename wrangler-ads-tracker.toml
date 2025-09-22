@@ -1,0 +1,5 @@
+name = "google-ads-tracker"
+main = "cloudflare_modern.js"
+compatibility_date = "2025-01-01"
+account_id = "483a6074c0defb1ee90a3632e93b2564"
+workers_dev = true

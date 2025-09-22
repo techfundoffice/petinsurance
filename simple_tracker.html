@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Ads Tracker</title>
+    <style>
+        body { font-family: Arial; margin: 40px; }
+        .box { background: #f0f0f0; padding: 20px; margin: 20px 0; border-radius: 5px; }
+        .keyword { color: #0066cc; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1 id="headline">Welcome</h1>
+    <p id="message">Loading...</p>
+    
+    <div class="box">
+        <h3>What we detected from your Google Ad:</h3>
+        <p>Keyword: <span class="keyword" id="keyword">None</span></p>
+        <p>Campaign: <span id="campaign">None</span></p>
+        <p>Source: <span id="source">None</span></p>
+    </div>
+    
+    <button id="cta" onclick="alert('Button clicked!')">Learn More</button>
+
+    <script>
+        // Get URL parameters
+        const params = new URLSearchParams(window.location.search);
+        
+        // Extract Google Ads data
+        const keyword = params.get('utm_term') || params.get('keyword') || '';
+        const campaign = params.get('utm_campaign') || '';
+        const source = params.get('utm_source') || '';
+        
+        // Update page content
+        if (keyword) {
+            document.getElementById('headline').textContent = 'Looking for ' + keyword.replace(/\+/g, ' ') + '?';
+            document.getElementById('message').textContent = 'You searched for "' + keyword.replace(/\+/g, ' ') + '" - we have what you need!';
+            document.getElementById('cta').textContent = 'Get ' + keyword.replace(/\+/g, ' ') + ' Now';
+        } else {
+            document.getElementById('message').textContent = 'Browse our products';
+        }
+        
+        // Display detected parameters
+        document.getElementById('keyword').textContent = keyword || 'None';
+        document.getElementById('campaign').textContent = campaign || 'None';
+        document.getElementById('source').textContent = source || 'None';
+        
+        // Store in browser
+        sessionStorage.setItem('google_ads_data', JSON.stringify({
+            keyword: keyword,
+            campaign: campaign,
+            source: source,
+            timestamp: new Date().toISOString()
+        }));
+    </script>
+</body>
+</html>

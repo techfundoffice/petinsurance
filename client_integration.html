@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Ads Click Tracking - Client Integration</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .dynamic-content {
+            margin: 20px 0;
+            padding: 20px;
+            background: #e3f2fd;
+            border-radius: 5px;
+        }
+        .data-display {
+            background: #f5f5f5;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: monospace;
+            margin: 20px 0;
+        }
+        button {
+            background: #2196f3;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            font-size: 16px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #1976d2;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 id="dynamic-headline">Welcome</h1>
+        <p id="dynamic-subheadline">Loading personalized content...</p>
+        
+        <div class="dynamic-content">
+            <div id="dynamic-body">
+                <p>Detecting your search parameters...</p>
+            </div>
+        </div>
+        
+        <button id="cta-button" onclick="handleCTAClick()">Learn More</button>
+        
+        <div class="data-display">
+            <h3>Google Ads Click Data:</h3>
+            <pre id="click-data">Loading...</pre>
+        </div>
+        
+        <div class="data-display">
+            <h3>Dynamic Content Generated:</h3>
+            <pre id="content-data">Loading...</pre>
+        </div>
+    </div>
+
+    <script>
+        // Google Ads Click Tracker Class
+        class GoogleAdsTracker {
+            constructor() {
+                this.clickData = this.extractClickData();
+                this.dynamicContent = this.generateDynamicContent();
+                this.sessionId = this.generateSessionId();
+            }
+            
+            extractClickData() {
+                const urlParams = new URLSearchParams(window.location.search);
+                
+                return {
+                    timestamp: new Date().toISOString(),
+                    url: window.location.href,
+                    keyword: urlParams.get('utm_term') || urlParams.get('keyword') || null,
+                    campaign: urlParams.get('utm_campaign') || null,
+                    source: urlParams.get('utm_source') || null,
+                    medium: urlParams.get('utm_medium') || null,
+                    content: urlParams.get('utm_content') || null,
+                    gclid: urlParams.get('gclid') || null,
+                    referrer: document.referrer,
+                    allParams: Object.fromEntries(urlParams)
+                };
+            }
+            
+            generateDynamicContent() {
+                const keyword = this.clickData.keyword || '';
+                const campaign = this.clickData.campaign || '';
+                
+                return {
+                    headline: this.generateHeadline(keyword),
+                    subheadline: this.generateSubheadline(keyword, campaign),
+                    bodyText: this.generateBodyText(keyword, campaign),
+                    ctaText: this.generateCTA(keyword)
+                };
+            }
+            
+            generateHeadline(keyword) {
+                if (!keyword) return "Welcome to Our Premium Solutions";
+                
+                const keywordClean = keyword.replace(/\+/g, ' ')
+                    .split(' ')
+                    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                    .join(' ');
+                    
+                return `Find the Best ${keywordClean} Solutions`;
+            }
+            
+            generateSubheadline(keyword, campaign) {
+                if (keyword) {
+                    const keywordClean = keyword.replace(/\+/g, ' ');
+                    return `You searched for "${keywordClean}" - We have exactly what you need!`;
+                } else if (campaign) {
+                    return `Welcome from our ${campaign.replace(/_/g, ' ')} campaign`;
+                }
+                return "Discover our curated selection of products and services";
+            }
+            
+            generateBodyText(keyword, campaign) {
+                if (keyword) {
+                    const keywordClean = keyword.replace(/\+/g, ' ');
+                    return `
+                        <p>Your search for <strong>${keywordClean}</strong> brought you to the perfect place!</p>
+                        <p>We specialize in providing top-quality ${keywordClean} solutions that exceed expectations.</p>
+                        <p>Join thousands of satisfied customers who trust us for their ${keywordClean} needs.</p>
+                    `;
+                }
+                return `
+                    <p>Welcome! You've found the industry leader in premium solutions.</p>
+                    <p>Browse our extensive catalog of carefully selected products and services.</p>
+                    <p>Experience the difference that quality and service make.</p>
+                `;
+            }
+            
+            generateCTA(keyword) {
+                if (keyword && keyword.toLowerCase().includes('buy')) {
+                    return "Buy Now - Save 20%";
+                } else if (keyword && keyword.toLowerCase().includes('free')) {
+                    return "Start Free Trial";
+                } else if (keyword && keyword.toLowerCase().includes('compare')) {
+                    return "Compare Options";
+                } else if (keyword) {
+                    return `Get ${keyword.replace(/\+/g, ' ')} Now`;
+                }
+                return "Explore Solutions";
+            }
+            
+            generateSessionId() {
+                const data = JSON.stringify(this.clickData) + Date.now();
+                let hash = 0;
+                for (let i = 0; i < data.length; i++) {
+                    const char = data.charCodeAt(i);
+                    hash = ((hash << 5) - hash) + char;
+                    hash = hash & hash;
+                }
+                return Math.abs(hash).toString(36);
+            }
+            
+            saveToStorage() {
+                sessionStorage.setItem('googleAdsClickData', JSON.stringify(this.clickData));
+                sessionStorage.setItem('sessionId', this.sessionId);
+                sessionStorage.setItem('dynamicContent', JSON.stringify(this.dynamicContent));
+            }
+            
+            trackEvent(eventName, eventData = {}) {
+                const trackingData = {
+                    event: eventName,
+                    timestamp: new Date().toISOString(),
+                    sessionId: this.sessionId,
+                    keyword: this.clickData.keyword,
+                    campaign: this.clickData.campaign,
+                    ...eventData
+                };
+                
+                // Send to analytics (placeholder)
+                console.log('Tracking event:', trackingData);
+                
+                // If Google Analytics is present
+                if (typeof gtag !== 'undefined') {
+                    gtag('event', eventName, trackingData);
+                }
+                
+                // Custom pixel tracking
+                const pixel = new Image();
+                pixel.src = `/track.gif?data=${encodeURIComponent(JSON.stringify(trackingData))}`;
+            }
+            
+            updatePageContent() {
+                // Update headline
+                document.getElementById('dynamic-headline').textContent = this.dynamicContent.headline;
+                
+                // Update subheadline
+                document.getElementById('dynamic-subheadline').textContent = this.dynamicContent.subheadline;
+                
+                // Update body
+                document.getElementById('dynamic-body').innerHTML = this.dynamicContent.bodyText;
+                
+                // Update CTA button
+                document.getElementById('cta-button').textContent = this.dynamicContent.ctaText;
+                
+                // Display raw data
+                document.getElementById('click-data').textContent = JSON.stringify(this.clickData, null, 2);
+                document.getElementById('content-data').textContent = JSON.stringify(this.dynamicContent, null, 2);
+            }
+        }
+        
+        // Initialize tracker when page loads
+        let tracker;
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize the tracker
+            tracker = new GoogleAdsTracker();
+            
+            // Save data to storage
+            tracker.saveToStorage();
+            
+            // Update page content
+            tracker.updatePageContent();
+            
+            // Track page view
+            tracker.trackEvent('page_view', {
+                page_title: document.title,
+                page_url: window.location.href
+            });
+            
+            // Set up engagement tracking
+            let engagementTime = 0;
+            setInterval(() => {
+                engagementTime += 5;
+                if (engagementTime % 30 === 0) {
+                    tracker.trackEvent('engagement', {
+                        time_on_page: engagementTime
+                    });
+                }
+            }, 5000);
+        });
+        
+        // Handle CTA click
+        function handleCTAClick() {
+            tracker.trackEvent('cta_click', {
+                button_text: tracker.dynamicContent.ctaText
+            });
+            
+            // Simulate conversion
+            alert(`Conversion tracked!\nKeyword: ${tracker.clickData.keyword || 'none'}\nSession: ${tracker.sessionId}`);
+        }
+        
+        // Expose tracker for debugging
+        window.googleAdsTracker = () => tracker;
+    </script>
+</body>
+</html>

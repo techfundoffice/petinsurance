@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# XML Sitemap
+Sitemap: https://million-pages.catsluvusboardinghotel.workers.dev/sitemap.xml
+
+# Allow all pages for indexing
+Allow: /1
+Allow: /category/
+Allow: /admin
+Allow: /best-practices
+Allow: /seo-guidelines
+
+# Crawl delay (optional - helps with server load)
+Crawl-delay: 1

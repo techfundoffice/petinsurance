@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Sitemap: https://petinsurance.catsluvusboardinghotel.workers.dev/sitemap.xml
+
+# Allow all crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1

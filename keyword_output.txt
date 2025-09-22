@@ -1,0 +1,25 @@
+Generated 1000000 keywords
+First 10: [
+  'Golden Retriever Hip Dysplasia Insurance New York',
+  'New York Golden Retriever Hip Dysplasia Treatment',
+  'Hip Dysplasia Golden Retriever Coverage New York',
+  'New York Pet Insurance Golden Retriever Hip Dysplasia',
+  'Golden Retriever Insurance Hip Dysplasia New York',
+  'Golden Retriever Arthritis Insurance New York',
+  'New York Golden Retriever Arthritis Treatment',
+  'Arthritis Golden Retriever Coverage New York',
+  'New York Pet Insurance Golden Retriever Arthritis',
+  'Golden Retriever Insurance Arthritis New York'
+]
+Last 10: [
+  'Jack Russell Terrier Difficulty Breathing Insurance Omaha',
+  'Omaha Jack Russell Terrier Difficulty Breathing Treatment',
+  'Difficulty Breathing Jack Russell Terrier Coverage Omaha',
+  'Omaha Pet Insurance Jack Russell Terrier Difficulty Breathing',
+  'Jack Russell Terrier Insurance Difficulty Breathing Omaha',
+  'Jack Russell Terrier Excessive Drinking Insurance Omaha',
+  'Omaha Jack Russell Terrier Excessive Drinking Treatment',
+  'Excessive Drinking Jack Russell Terrier Coverage Omaha',
+  'Omaha Pet Insurance Jack Russell Terrier Excessive Drinking',
+  'Jack Russell Terrier Insurance Excessive Drinking Omaha'
+]

@@ -1,0 +1,26 @@
+name = "petinsurance"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+account_id = "483a6074c0defb1ee90a3632e93b2564"
+workers_dev = true
+
+[env.production]
+name = "petinsurance-testing"
+
+[[env.production.kv_namespaces]]
+binding = "KV_CACHE"
+id = "your-kv-namespace-id"
+
+[[env.production.d1_databases]]
+binding = "DB"
+database_name = "million-pages-db"
+database_id = "YOUR_D1_DATABASE_ID"
+
+# Google Ads API Configuration (Set these as secrets)
+# wrangler secret put GOOGLE_ADS_CUSTOMER_ID --env production
+# wrangler secret put GOOGLE_ADS_ACCESS_TOKEN --env production  
+# wrangler secret put GOOGLE_ADS_DEVELOPER_TOKEN --env production
+
+# Admin Panel Configuration (Set this as a secret)
+# wrangler secret put ADMIN_PASSWORD
+# wrangler secret put ENCRYPTION_KEY

@@ -1,0 +1,1869 @@
+{
+  "existingBreedCount": 38,
+  "newBreedKeywordsCount": 372,
+  "totalBreedKeywordsAfter": 410,
+  "keywordsToReplace": [
+    {
+      "index": 848,
+      "keyword": "emergency vet"
+    },
+    {
+      "index": 849,
+      "keyword": "emergency veterinarian"
+    },
+    {
+      "index": 850,
+      "keyword": "emergency animal hospital"
+    },
+    {
+      "index": 851,
+      "keyword": "emergency pet hospital"
+    },
+    {
+      "index": 852,
+      "keyword": "pet emergency clinic"
+    },
+    {
+      "index": 853,
+      "keyword": "animal emergency clinic"
+    },
+    {
+      "index": 854,
+      "keyword": "veterinary emergency services"
+    },
+    {
+      "index": 855,
+      "keyword": "emergency vet clinic"
+    },
+    {
+      "index": 856,
+      "keyword": "urgent pet care"
+    },
+    {
+      "index": 857,
+      "keyword": "urgent veterinary care"
+    },
+    {
+      "index": 858,
+      "keyword": "critical pet care"
+    },
+    {
+      "index": 859,
+      "keyword": "pet crisis care"
+    },
+    {
+      "index": 860,
+      "keyword": "animal emergency care"
+    },
+    {
+      "index": 861,
+      "keyword": "emergency pet treatment"
+    },
+    {
+      "index": 862,
+      "keyword": "urgent animal care"
+    },
+    {
+      "index": 863,
+      "keyword": "pet emergency services"
+    },
+    {
+      "index": 864,
+      "keyword": "emergency veterinary hospital"
+    },
+    {
+      "index": 865,
+      "keyword": "critical care veterinary"
+    },
+    {
+      "index": 866,
+      "keyword": "intensive care veterinary"
+    },
+    {
+      "index": 867,
+      "keyword": "emergency pet medicine"
+    },
+    {
+      "index": 868,
+      "keyword": "emergency vet near me"
+    },
+    {
+      "index": 869,
+      "keyword": "emergency veterinarian near me"
+    },
+    {
+      "index": 870,
+      "keyword": "emergency animal hospital near me"
+    },
+    {
+      "index": 871,
+      "keyword": "emergency pet hospital near me"
+    },
+    {
+      "index": 872,
+      "keyword": "pet emergency clinic near me"
+    },
+    {
+      "index": 873,
+      "keyword": "animal emergency clinic near me"
+    },
+    {
+      "index": 874,
+      "keyword": "urgent pet care near me"
+    },
+    {
+      "index": 875,
+      "keyword": "urgent vet near me"
+    },
+    {
+      "index": 876,
+      "keyword": "24 hour vet near me"
+    },
+    {
+      "index": 877,
+      "keyword": "after hours vet near me"
+    },
+    {
+      "index": 878,
+      "keyword": "weekend vet near me"
+    },
+    {
+      "index": 879,
+      "keyword": "holiday vet near me"
+    },
+    {
+      "index": 880,
+      "keyword": "late night vet near me"
+    },
+    {
+      "index": 881,
+      "keyword": "emergency vet open now"
+    },
+    {
+      "index": 882,
+      "keyword": "emergency vet open 24 hours"
+    },
+    {
+      "index": 883,
+      "keyword": "emergency vet open weekends"
+    },
+    {
+      "index": 884,
+      "keyword": "emergency vet open holidays"
+    },
+    {
+      "index": 885,
+      "keyword": "emergency vet open late"
+    },
+    {
+      "index": 886,
+      "keyword": "emergency vet open sunday"
+    },
+    {
+      "index": 887,
+      "keyword": "emergency vet open saturday"
+    },
+    {
+      "index": 888,
+      "keyword": "24 hour emergency vet"
+    },
+    {
+      "index": 889,
+      "keyword": "24/7 emergency vet"
+    },
+    {
+      "index": 890,
+      "keyword": "24 hour animal hospital"
+    },
+    {
+      "index": 891,
+      "keyword": "24/7 animal hospital"
+    },
+    {
+      "index": 892,
+      "keyword": "24 hour pet hospital"
+    },
+    {
+      "index": 893,
+      "keyword": "24/7 pet hospital"
+    },
+    {
+      "index": 894,
+      "keyword": "after hours emergency vet"
+    },
+    {
+      "index": 895,
+      "keyword": "after hours animal hospital"
+    },
+    {
+      "index": 896,
+      "keyword": "after hours pet hospital"
+    },
+    {
+      "index": 897,
+      "keyword": "weekend emergency vet"
+    },
+    {
+      "index": 898,
+      "keyword": "weekend animal hospital"
+    },
+    {
+      "index": 899,
+      "keyword": "weekend pet hospital"
+    },
+    {
+      "index": 900,
+      "keyword": "holiday emergency vet"
+    },
+    {
+      "index": 901,
+      "keyword": "holiday animal hospital"
+    },
+    {
+      "index": 902,
+      "keyword": "holiday pet hospital"
+    },
+    {
+      "index": 903,
+      "keyword": "late night emergency vet"
+    },
+    {
+      "index": 904,
+      "keyword": "late night animal hospital"
+    },
+    {
+      "index": 905,
+      "keyword": "late night pet hospital"
+    },
+    {
+      "index": 906,
+      "keyword": "overnight emergency vet"
+    },
+    {
+      "index": 907,
+      "keyword": "overnight animal hospital"
+    },
+    {
+      "index": 908,
+      "keyword": "overnight pet hospital"
+    },
+    {
+      "index": 909,
+      "keyword": "sunday emergency vet"
+    },
+    {
+      "index": 910,
+      "keyword": "saturday emergency vet"
+    },
+    {
+      "index": 911,
+      "keyword": "midnight emergency vet"
+    },
+    {
+      "index": 912,
+      "keyword": "emergency pet surgery"
+    },
+    {
+      "index": 913,
+      "keyword": "emergency animal surgery"
+    },
+    {
+      "index": 914,
+      "keyword": "urgent pet surgery"
+    },
+    {
+      "index": 915,
+      "keyword": "critical pet surgery"
+    },
+    {
+      "index": 916,
+      "keyword": "emergency dog surgery"
+    },
+    {
+      "index": 917,
+      "keyword": "emergency cat surgery"
+    },
+    {
+      "index": 918,
+      "keyword": "emergency spay surgery"
+    },
+    {
+      "index": 919,
+      "keyword": "emergency neuter surgery"
+    },
+    {
+      "index": 920,
+      "keyword": "emergency c-section"
+    },
+    {
+      "index": 921,
+      "keyword": "emergency cesarean"
+    },
+    {
+      "index": 922,
+      "keyword": "emergency bloat surgery"
+    },
+    {
+      "index": 923,
+      "keyword": "emergency GDV surgery"
+    },
+    {
+      "index": 924,
+      "keyword": "emergency foreign body surgery"
+    },
+    {
+      "index": 925,
+      "keyword": "emergency intestinal surgery"
+    },
+    {
+      "index": 926,
+      "keyword": "emergency stomach surgery"
+    },
+    {
+      "index": 927,
+      "keyword": "emergency bladder surgery"
+    },
+    {
+      "index": 928,
+      "keyword": "emergency eye surgery"
+    },
+    {
+      "index": 929,
+      "keyword": "emergency dental surgery"
+    },
+    {
+      "index": 930,
+      "keyword": "emergency orthopedic surgery"
+    },
+    {
+      "index": 931,
+      "keyword": "emergency fracture repair"
+    },
+    {
+      "index": 932,
+      "keyword": "emergency wound repair"
+    },
+    {
+      "index": 933,
+      "keyword": "emergency laceration repair"
+    },
+    {
+      "index": 934,
+      "keyword": "emergency bite wound treatment"
+    },
+    {
+      "index": 935,
+      "keyword": "emergency trauma surgery"
+    },
+    {
+      "index": 936,
+      "keyword": "emergency amputation"
+    },
+    {
+      "index": 937,
+      "keyword": "emergency blood transfusion"
+    },
+    {
+      "index": 938,
+      "keyword": "emergency fluid therapy"
+    },
+    {
+      "index": 939,
+      "keyword": "emergency oxygen therapy"
+    },
+    {
+      "index": 940,
+      "keyword": "emergency intubation"
+    },
+    {
+      "index": 941,
+      "keyword": "emergency CPR"
+    },
+    {
+      "index": 942,
+      "keyword": "emergency resuscitation"
+    },
+    {
+      "index": 943,
+      "keyword": "pet poisoning emergency"
+    },
+    {
+      "index": 944,
+      "keyword": "dog poisoning emergency"
+    },
+    {
+      "index": 945,
+      "keyword": "cat poisoning emergency"
+    },
+    {
+      "index": 946,
+      "keyword": "pet toxicity emergency"
+    },
+    {
+      "index": 947,
+      "keyword": "pet overdose emergency"
+    },
+    {
+      "index": 948,
+      "keyword": "pet chocolate poisoning"
+    },
+    {
+      "index": 949,
+      "keyword": "pet xylitol poisoning"
+    },
+    {
+      "index": 950,
+      "keyword": "pet antifreeze poisoning"
+    },
+    {
+      "index": 951,
+      "keyword": "pet rat poison emergency"
+    },
+    {
+      "index": 952,
+      "keyword": "pet hit by car"
+    },
+    {
+      "index": 953,
+      "keyword": "dog hit by car"
+    },
+    {
+      "index": 954,
+      "keyword": "cat hit by car"
+    },
+    {
+      "index": 955,
+      "keyword": "pet car accident"
+    },
+    {
+      "index": 956,
+      "keyword": "pet trauma emergency"
+    },
+    {
+      "index": 957,
+      "keyword": "pet attack emergency"
+    },
+    {
+      "index": 958,
+      "keyword": "dog attack emergency"
+    },
+    {
+      "index": 959,
+      "keyword": "cat attack emergency"
+    },
+    {
+      "index": 960,
+      "keyword": "pet bite emergency"
+    },
+    {
+      "index": 961,
+      "keyword": "pet fight emergency"
+    },
+    {
+      "index": 962,
+      "keyword": "pet bloat emergency"
+    },
+    {
+      "index": 963,
+      "keyword": "dog bloat emergency"
+    },
+    {
+      "index": 964,
+      "keyword": "GDV emergency"
+    },
+    {
+      "index": 965,
+      "keyword": "gastric torsion emergency"
+    },
+    {
+      "index": 966,
+      "keyword": "pet seizure emergency"
+    },
+    {
+      "index": 967,
+      "keyword": "dog seizure emergency"
+    },
+    {
+      "index": 968,
+      "keyword": "cat seizure emergency"
+    },
+    {
+      "index": 969,
+      "keyword": "pet stroke emergency"
+    },
+    {
+      "index": 970,
+      "keyword": "pet heart attack"
+    },
+    {
+      "index": 971,
+      "keyword": "pet cardiac emergency"
+    },
+    {
+      "index": 972,
+      "keyword": "pet breathing emergency"
+    },
+    {
+      "index": 973,
+      "keyword": "pet choking emergency"
+    },
+    {
+      "index": 974,
+      "keyword": "pet allergic reaction"
+    },
+    {
+      "index": 975,
+      "keyword": "pet anaphylaxis"
+    },
+    {
+      "index": 976,
+      "keyword": "pet heatstroke emergency"
+    },
+    {
+      "index": 977,
+      "keyword": "pet hypothermia emergency"
+    },
+    {
+      "index": 978,
+      "keyword": "pet burns emergency"
+    },
+    {
+      "index": 979,
+      "keyword": "pet electrocution emergency"
+    },
+    {
+      "index": 980,
+      "keyword": "pet drowning emergency"
+    },
+    {
+      "index": 981,
+      "keyword": "pet collapse emergency"
+    },
+    {
+      "index": 982,
+      "keyword": "pet unconscious emergency"
+    },
+    {
+      "index": 983,
+      "keyword": "pet coma emergency"
+    },
+    {
+      "index": 984,
+      "keyword": "emergency vet cost"
+    },
+    {
+      "index": 985,
+      "keyword": "emergency vet bill"
+    },
+    {
+      "index": 986,
+      "keyword": "emergency vet prices"
+    },
+    {
+      "index": 987,
+      "keyword": "emergency animal hospital cost"
+    },
+    {
+      "index": 988,
+      "keyword": "emergency pet hospital cost"
+    },
+    {
+      "index": 989,
+      "keyword": "how much emergency vet"
+    },
+    {
+      "index": 990,
+      "keyword": "emergency vet expensive"
+    },
+    {
+      "index": 991,
+      "keyword": "emergency vet payment plans"
+    },
+    {
+      "index": 992,
+      "keyword": "emergency vet financing"
+    },
+    {
+      "index": 993,
+      "keyword": "emergency vet insurance"
+    },
+    {
+      "index": 994,
+      "keyword": "emergency vet care credit"
+    },
+    {
+      "index": 995,
+      "keyword": "emergency vet payment options"
+    },
+    {
+      "index": 996,
+      "keyword": "emergency vet financial assistance"
+    },
+    {
+      "index": 997,
+      "keyword": "emergency vet charity"
+    },
+    {
+      "index": 998,
+      "keyword": "emergency vet help"
+    },
+    {
+      "index": 999,
+      "keyword": "emergency vet fund"
+    },
+    {
+      "index": 1000,
+      "keyword": "emergency vet loan"
+    },
+    {
+      "index": 1001,
+      "keyword": "emergency vet credit"
+    },
+    {
+      "index": 1002,
+      "keyword": "emergency vet discount"
+    },
+    {
+      "index": 1003,
+      "keyword": "cheap emergency vet"
+    },
+    {
+      "index": 1004,
+      "keyword": "affordable emergency vet"
+    },
+    {
+      "index": 1005,
+      "keyword": "low cost emergency vet"
+    },
+    {
+      "index": 1006,
+      "keyword": "emergency vet sliding scale"
+    },
+    {
+      "index": 1007,
+      "keyword": "veterinary oncologist"
+    },
+    {
+      "index": 1008,
+      "keyword": "pet oncologist"
+    },
+    {
+      "index": 1009,
+      "keyword": "animal oncologist"
+    },
+    {
+      "index": 1010,
+      "keyword": "dog oncologist"
+    },
+    {
+      "index": 1011,
+      "keyword": "cat oncologist"
+    },
+    {
+      "index": 1012,
+      "keyword": "veterinary cancer specialist"
+    },
+    {
+      "index": 1013,
+      "keyword": "pet cancer specialist"
+    },
+    {
+      "index": 1014,
+      "keyword": "animal cancer specialist"
+    },
+    {
+      "index": 1015,
+      "keyword": "dog cancer specialist"
+    },
+    {
+      "index": 1016,
+      "keyword": "cat cancer specialist"
+    },
+    {
+      "index": 1017,
+      "keyword": "veterinary oncology"
+    },
+    {
+      "index": 1018,
+      "keyword": "pet oncology"
+    },
+    {
+      "index": 1019,
+      "keyword": "animal oncology"
+    },
+    {
+      "index": 1020,
+      "keyword": "dog oncology"
+    },
+    {
+      "index": 1021,
+      "keyword": "cat oncology"
+    },
+    {
+      "index": 1022,
+      "keyword": "veterinary cancer treatment"
+    },
+    {
+      "index": 1023,
+      "keyword": "pet cancer treatment"
+    },
+    {
+      "index": 1024,
+      "keyword": "animal cancer treatment"
+    },
+    {
+      "index": 1025,
+      "keyword": "dog cancer treatment"
+    },
+    {
+      "index": 1026,
+      "keyword": "cat cancer treatment"
+    },
+    {
+      "index": 1027,
+      "keyword": "veterinary cancer care"
+    },
+    {
+      "index": 1028,
+      "keyword": "pet cancer care"
+    },
+    {
+      "index": 1029,
+      "keyword": "animal cancer care"
+    },
+    {
+      "index": 1030,
+      "keyword": "dog cancer care"
+    },
+    {
+      "index": 1031,
+      "keyword": "cat cancer care"
+    },
+    {
+      "index": 1032,
+      "keyword": "pet lymphoma"
+    },
+    {
+      "index": 1033,
+      "keyword": "dog lymphoma"
+    },
+    {
+      "index": 1034,
+      "keyword": "cat lymphoma"
+    },
+    {
+      "index": 1035,
+      "keyword": "canine lymphoma"
+    },
+    {
+      "index": 1036,
+      "keyword": "feline lymphoma"
+    },
+    {
+      "index": 1037,
+      "keyword": "pet osteosarcoma"
+    },
+    {
+      "index": 1038,
+      "keyword": "dog osteosarcoma"
+    },
+    {
+      "index": 1039,
+      "keyword": "canine osteosarcoma"
+    },
+    {
+      "index": 1040,
+      "keyword": "pet bone cancer"
+    },
+    {
+      "index": 1041,
+      "keyword": "dog bone cancer"
+    },
+    {
+      "index": 1042,
+      "keyword": "cat bone cancer"
+    },
+    {
+      "index": 1043,
+      "keyword": "pet mast cell tumor"
+    },
+    {
+      "index": 1044,
+      "keyword": "dog mast cell tumor"
+    },
+    {
+      "index": 1045,
+      "keyword": "cat mast cell tumor"
+    },
+    {
+      "index": 1046,
+      "keyword": "pet hemangiosarcoma"
+    },
+    {
+      "index": 1047,
+      "keyword": "dog hemangiosarcoma"
+    },
+    {
+      "index": 1048,
+      "keyword": "pet melanoma"
+    },
+    {
+      "index": 1049,
+      "keyword": "dog melanoma"
+    },
+    {
+      "index": 1050,
+      "keyword": "cat melanoma"
+    },
+    {
+      "index": 1051,
+      "keyword": "pet carcinoma"
+    },
+    {
+      "index": 1052,
+      "keyword": "dog carcinoma"
+    },
+    {
+      "index": 1053,
+      "keyword": "cat carcinoma"
+    },
+    {
+      "index": 1054,
+      "keyword": "pet sarcoma"
+    },
+    {
+      "index": 1055,
+      "keyword": "dog sarcoma"
+    },
+    {
+      "index": 1056,
+      "keyword": "cat sarcoma"
+    },
+    {
+      "index": 1057,
+      "keyword": "pet brain tumor"
+    },
+    {
+      "index": 1058,
+      "keyword": "dog brain tumor"
+    },
+    {
+      "index": 1059,
+      "keyword": "cat brain tumor"
+    },
+    {
+      "index": 1060,
+      "keyword": "pet liver cancer"
+    },
+    {
+      "index": 1061,
+      "keyword": "dog liver cancer"
+    },
+    {
+      "index": 1062,
+      "keyword": "cat liver cancer"
+    },
+    {
+      "index": 1063,
+      "keyword": "pet lung cancer"
+    },
+    {
+      "index": 1064,
+      "keyword": "dog lung cancer"
+    },
+    {
+      "index": 1065,
+      "keyword": "cat lung cancer"
+    },
+    {
+      "index": 1066,
+      "keyword": "pet kidney cancer"
+    },
+    {
+      "index": 1067,
+      "keyword": "dog kidney cancer"
+    },
+    {
+      "index": 1068,
+      "keyword": "cat kidney cancer"
+    },
+    {
+      "index": 1069,
+      "keyword": "pet bladder cancer"
+    },
+    {
+      "index": 1070,
+      "keyword": "dog bladder cancer"
+    },
+    {
+      "index": 1071,
+      "keyword": "cat bladder cancer"
+    },
+    {
+      "index": 1072,
+      "keyword": "pet stomach cancer"
+    },
+    {
+      "index": 1073,
+      "keyword": "dog stomach cancer"
+    },
+    {
+      "index": 1074,
+      "keyword": "cat stomach cancer"
+    },
+    {
+      "index": 1075,
+      "keyword": "pet intestinal cancer"
+    },
+    {
+      "index": 1076,
+      "keyword": "dog intestinal cancer"
+    },
+    {
+      "index": 1077,
+      "keyword": "cat intestinal cancer"
+    },
+    {
+      "index": 1078,
+      "keyword": "pet pancreatic cancer"
+    },
+    {
+      "index": 1079,
+      "keyword": "dog pancreatic cancer"
+    },
+    {
+      "index": 1080,
+      "keyword": "cat pancreatic cancer"
+    },
+    {
+      "index": 1081,
+      "keyword": "pet prostate cancer"
+    },
+    {
+      "index": 1082,
+      "keyword": "dog prostate cancer"
+    },
+    {
+      "index": 1083,
+      "keyword": "pet mammary cancer"
+    },
+    {
+      "index": 1084,
+      "keyword": "dog mammary cancer"
+    },
+    {
+      "index": 1085,
+      "keyword": "cat mammary cancer"
+    },
+    {
+      "index": 1086,
+      "keyword": "pet skin cancer"
+    },
+    {
+      "index": 1087,
+      "keyword": "dog skin cancer"
+    },
+    {
+      "index": 1088,
+      "keyword": "cat skin cancer"
+    },
+    {
+      "index": 1089,
+      "keyword": "pet oral cancer"
+    },
+    {
+      "index": 1090,
+      "keyword": "dog oral cancer"
+    },
+    {
+      "index": 1091,
+      "keyword": "cat oral cancer"
+    },
+    {
+      "index": 1092,
+      "keyword": "pet nasal cancer"
+    },
+    {
+      "index": 1093,
+      "keyword": "dog nasal cancer"
+    },
+    {
+      "index": 1094,
+      "keyword": "cat nasal cancer"
+    },
+    {
+      "index": 1095,
+      "keyword": "pet chemotherapy"
+    },
+    {
+      "index": 1096,
+      "keyword": "dog chemotherapy"
+    },
+    {
+      "index": 1097,
+      "keyword": "cat chemotherapy"
+    },
+    {
+      "index": 1098,
+      "keyword": "canine chemotherapy"
+    },
+    {
+      "index": 1099,
+      "keyword": "feline chemotherapy"
+    },
+    {
+      "index": 1100,
+      "keyword": "pet chemo"
+    },
+    {
+      "index": 1101,
+      "keyword": "dog chemo"
+    },
+    {
+      "index": 1102,
+      "keyword": "cat chemo"
+    },
+    {
+      "index": 1103,
+      "keyword": "pet radiation therapy"
+    },
+    {
+      "index": 1104,
+      "keyword": "dog radiation therapy"
+    },
+    {
+      "index": 1105,
+      "keyword": "cat radiation therapy"
+    },
+    {
+      "index": 1106,
+      "keyword": "pet radiotherapy"
+    },
+    {
+      "index": 1107,
+      "keyword": "dog radiotherapy"
+    },
+    {
+      "index": 1108,
+      "keyword": "cat radiotherapy"
+    },
+    {
+      "index": 1109,
+      "keyword": "pet cancer surgery"
+    },
+    {
+      "index": 1110,
+      "keyword": "dog cancer surgery"
+    },
+    {
+      "index": 1111,
+      "keyword": "cat cancer surgery"
+    },
+    {
+      "index": 1112,
+      "keyword": "pet tumor removal"
+    },
+    {
+      "index": 1113,
+      "keyword": "dog tumor removal"
+    },
+    {
+      "index": 1114,
+      "keyword": "cat tumor removal"
+    },
+    {
+      "index": 1115,
+      "keyword": "pet cancer immunotherapy"
+    },
+    {
+      "index": 1116,
+      "keyword": "dog cancer immunotherapy"
+    },
+    {
+      "index": 1117,
+      "keyword": "cat cancer immunotherapy"
+    },
+    {
+      "index": 1118,
+      "keyword": "pet targeted therapy"
+    },
+    {
+      "index": 1119,
+      "keyword": "dog targeted therapy"
+    },
+    {
+      "index": 1120,
+      "keyword": "cat targeted therapy"
+    },
+    {
+      "index": 1121,
+      "keyword": "pet palliative care"
+    },
+    {
+      "index": 1122,
+      "keyword": "dog palliative care"
+    },
+    {
+      "index": 1123,
+      "keyword": "cat palliative care"
+    },
+    {
+      "index": 1124,
+      "keyword": "pet hospice care"
+    },
+    {
+      "index": 1125,
+      "keyword": "dog hospice care"
+    },
+    {
+      "index": 1126,
+      "keyword": "cat hospice care"
+    },
+    {
+      "index": 1127,
+      "keyword": "pet cancer treatment cost"
+    },
+    {
+      "index": 1128,
+      "keyword": "dog cancer treatment cost"
+    },
+    {
+      "index": 1129,
+      "keyword": "cat cancer treatment cost"
+    },
+    {
+      "index": 1130,
+      "keyword": "pet chemotherapy cost"
+    },
+    {
+      "index": 1131,
+      "keyword": "dog chemotherapy cost"
+    },
+    {
+      "index": 1132,
+      "keyword": "cat chemotherapy cost"
+    },
+    {
+      "index": 1133,
+      "keyword": "pet radiation therapy cost"
+    },
+    {
+      "index": 1134,
+      "keyword": "dog radiation therapy cost"
+    },
+    {
+      "index": 1135,
+      "keyword": "cat radiation therapy cost"
+    },
+    {
+      "index": 1136,
+      "keyword": "pet cancer surgery cost"
+    },
+    {
+      "index": 1137,
+      "keyword": "dog cancer surgery cost"
+    },
+    {
+      "index": 1138,
+      "keyword": "cat cancer surgery cost"
+    },
+    {
+      "index": 1139,
+      "keyword": "pet oncologist cost"
+    },
+    {
+      "index": 1140,
+      "keyword": "dog oncologist cost"
+    },
+    {
+      "index": 1141,
+      "keyword": "cat oncologist cost"
+    },
+    {
+      "index": 1142,
+      "keyword": "how much pet cancer treatment"
+    },
+    {
+      "index": 1143,
+      "keyword": "how much dog cancer treatment"
+    },
+    {
+      "index": 1144,
+      "keyword": "how much cat cancer treatment"
+    },
+    {
+      "index": 1145,
+      "keyword": "pet cancer expensive"
+    },
+    {
+      "index": 1146,
+      "keyword": "dog cancer expensive"
+    },
+    {
+      "index": 1147,
+      "keyword": "cat cancer expensive"
+    },
+    {
+      "index": 1148,
+      "keyword": "pet cancer insurance"
+    },
+    {
+      "index": 1149,
+      "keyword": "dog cancer insurance"
+    },
+    {
+      "index": 1150,
+      "keyword": "cat cancer insurance"
+    },
+    {
+      "index": 1151,
+      "keyword": "pet cancer financing"
+    },
+    {
+      "index": 1152,
+      "keyword": "dog cancer financing"
+    },
+    {
+      "index": 1153,
+      "keyword": "cat cancer financing"
+    },
+    {
+      "index": 1154,
+      "keyword": "pet cancer payment plans"
+    },
+    {
+      "index": 1155,
+      "keyword": "dog cancer payment plans"
+    },
+    {
+      "index": 1156,
+      "keyword": "cat cancer payment plans"
+    },
+    {
+      "index": 1157,
+      "keyword": "pet cancer financial assistance"
+    },
+    {
+      "index": 1158,
+      "keyword": "dog cancer financial assistance"
+    },
+    {
+      "index": 1159,
+      "keyword": "cat cancer financial assistance"
+    },
+    {
+      "index": 1160,
+      "keyword": "veterinary oncologist near me"
+    },
+    {
+      "index": 1161,
+      "keyword": "pet oncologist near me"
+    },
+    {
+      "index": 1162,
+      "keyword": "dog oncologist near me"
+    },
+    {
+      "index": 1163,
+      "keyword": "cat oncologist near me"
+    },
+    {
+      "index": 1164,
+      "keyword": "veterinary cancer specialist near me"
+    },
+    {
+      "index": 1165,
+      "keyword": "pet cancer specialist near me"
+    },
+    {
+      "index": 1166,
+      "keyword": "dog cancer specialist near me"
+    },
+    {
+      "index": 1167,
+      "keyword": "cat cancer specialist near me"
+    },
+    {
+      "index": 1168,
+      "keyword": "pet cancer treatment near me"
+    },
+    {
+      "index": 1169,
+      "keyword": "dog cancer treatment near me"
+    },
+    {
+      "index": 1170,
+      "keyword": "cat cancer treatment near me"
+    },
+    {
+      "index": 1171,
+      "keyword": "pet chemotherapy near me"
+    },
+    {
+      "index": 1172,
+      "keyword": "dog chemotherapy near me"
+    },
+    {
+      "index": 1173,
+      "keyword": "cat chemotherapy near me"
+    },
+    {
+      "index": 1174,
+      "keyword": "pet radiation therapy near me"
+    },
+    {
+      "index": 1175,
+      "keyword": "dog radiation therapy near me"
+    },
+    {
+      "index": 1176,
+      "keyword": "cat radiation therapy near me"
+    },
+    {
+      "index": 1177,
+      "keyword": "veterinary orthopedic surgeon"
+    },
+    {
+      "index": 1178,
+      "keyword": "pet orthopedic surgeon"
+    },
+    {
+      "index": 1179,
+      "keyword": "dog orthopedic surgeon"
+    },
+    {
+      "index": 1180,
+      "keyword": "cat orthopedic surgeon"
+    },
+    {
+      "index": 1181,
+      "keyword": "animal orthopedic surgeon"
+    },
+    {
+      "index": 1182,
+      "keyword": "canine orthopedic surgeon"
+    },
+    {
+      "index": 1183,
+      "keyword": "feline orthopedic surgeon"
+    },
+    {
+      "index": 1184,
+      "keyword": "veterinary orthopedic surgery"
+    },
+    {
+      "index": 1185,
+      "keyword": "pet orthopedic surgery"
+    },
+    {
+      "index": 1186,
+      "keyword": "dog orthopedic surgery"
+    },
+    {
+      "index": 1187,
+      "keyword": "cat orthopedic surgery"
+    },
+    {
+      "index": 1188,
+      "keyword": "animal orthopedic surgery"
+    },
+    {
+      "index": 1189,
+      "keyword": "canine orthopedic surgery"
+    },
+    {
+      "index": 1190,
+      "keyword": "feline orthopedic surgery"
+    },
+    {
+      "index": 1191,
+      "keyword": "dog ACL surgery"
+    },
+    {
+      "index": 1192,
+      "keyword": "dog CCL surgery"
+    },
+    {
+      "index": 1193,
+      "keyword": "dog cruciate surgery"
+    },
+    {
+      "index": 1194,
+      "keyword": "canine ACL surgery"
+    },
+    {
+      "index": 1195,
+      "keyword": "canine CCL surgery"
+    },
+    {
+      "index": 1196,
+      "keyword": "canine cruciate surgery"
+    },
+    {
+      "index": 1197,
+      "keyword": "dog knee surgery"
+    },
+    {
+      "index": 1198,
+      "keyword": "canine knee surgery"
+    },
+    {
+      "index": 1199,
+      "keyword": "dog TPLO surgery"
+    },
+    {
+      "index": 1200,
+      "keyword": "canine TPLO surgery"
+    },
+    {
+      "index": 1201,
+      "keyword": "dog TTA surgery"
+    },
+    {
+      "index": 1202,
+      "keyword": "canine TTA surgery"
+    },
+    {
+      "index": 1203,
+      "keyword": "dog lateral suture"
+    },
+    {
+      "index": 1204,
+      "keyword": "canine lateral suture"
+    },
+    {
+      "index": 1205,
+      "keyword": "dog ACL repair"
+    },
+    {
+      "index": 1206,
+      "keyword": "dog CCL repair"
+    },
+    {
+      "index": 1207,
+      "keyword": "dog cruciate repair"
+    },
+    {
+      "index": 1208,
+      "keyword": "canine ACL repair"
+    },
+    {
+      "index": 1209,
+      "keyword": "canine CCL repair"
+    },
+    {
+      "index": 1210,
+      "keyword": "canine cruciate repair"
+    },
+    {
+      "index": 1211,
+      "keyword": "dog ACL surgery cost"
+    },
+    {
+      "index": 1212,
+      "keyword": "dog CCL surgery cost"
+    },
+    {
+      "index": 1213,
+      "keyword": "dog cruciate surgery cost"
+    },
+    {
+      "index": 1214,
+      "keyword": "dog TPLO surgery cost"
+    },
+    {
+      "index": 1215,
+      "keyword": "dog TTA surgery cost"
+    },
+    {
+      "index": 1216,
+      "keyword": "dog knee surgery cost"
+    },
+    {
+      "index": 1217,
+      "keyword": "how much dog ACL surgery"
+    },
+    {
+      "index": 1218,
+      "keyword": "how much dog CCL surgery"
+    },
+    {
+      "index": 1219,
+      "keyword": "how much dog TPLO surgery"
+    }
+  ],
+  "newBreedKeywords": [
+    "Great Dane Insurance Costs",
+    "Great Dane Health Coverage",
+    "Great Dane Insurance Plans",
+    "Pug Insurance Costs",
+    "Pug Health Coverage",
+    "Pug Insurance Plans",
+    "Boston Terrier Insurance Costs",
+    "Boston Terrier Health Coverage",
+    "Boston Terrier Insurance Plans",
+    "Shih Tzu Insurance Costs",
+    "Shih Tzu Health Coverage",
+    "Shih Tzu Insurance Plans",
+    "Pomeranian Insurance Costs",
+    "Pomeranian Health Coverage",
+    "Pomeranian Insurance Plans",
+    "Havanese Insurance Costs",
+    "Havanese Health Coverage",
+    "Havanese Insurance Plans",
+    "Shetland Sheepdog Insurance Costs",
+    "Shetland Sheepdog Health Coverage",
+    "Shetland Sheepdog Insurance Plans",
+    "Brittany Spaniel Insurance Costs",
+    "Brittany Spaniel Health Coverage",
+    "Brittany Spaniel Insurance Plans",
+    "Bernese Mountain Dog Insurance Costs",
+    "Bernese Mountain Dog Health Coverage",
+    "Bernese Mountain Dog Insurance Plans",
+    "Cocker Spaniel Insurance Costs",
+    "Cocker Spaniel Health Coverage",
+    "Cocker Spaniel Insurance Plans",
+    "Border Collie Insurance Costs",
+    "Border Collie Health Coverage",
+    "Border Collie Insurance Plans",
+    "Vizsla Insurance Costs",
+    "Vizsla Health Coverage",
+    "Vizsla Insurance Plans",
+    "Basset Hound Insurance Costs",
+    "Basset Hound Health Coverage",
+    "Basset Hound Insurance Plans",
+    "Mastiff Insurance Costs",
+    "Mastiff Health Coverage",
+    "Mastiff Insurance Plans",
+    "Maltese Insurance Costs",
+    "Maltese Health Coverage",
+    "Maltese Insurance Plans",
+    "Weimaraner Insurance Costs",
+    "Weimaraner Health Coverage",
+    "Weimaraner Insurance Plans",
+    "Collie Insurance Costs",
+    "Collie Health Coverage",
+    "Collie Insurance Plans",
+    "Newfoundland Insurance Costs",
+    "Newfoundland Health Coverage",
+    "Newfoundland Insurance Plans",
+    "Rhodesian Ridgeback Insurance Costs",
+    "Rhodesian Ridgeback Health Coverage",
+    "Rhodesian Ridgeback Insurance Plans",
+    "Shiba Inu Insurance Costs",
+    "Shiba Inu Health Coverage",
+    "Shiba Inu Insurance Plans",
+    "West Highland Terrier Insurance Costs",
+    "West Highland Terrier Health Coverage",
+    "West Highland Terrier Insurance Plans",
+    "Bichon Frise Insurance Costs",
+    "Bichon Frise Health Coverage",
+    "Bichon Frise Insurance Plans",
+    "Bloodhound Insurance Costs",
+    "Bloodhound Health Coverage",
+    "Bloodhound Insurance Plans",
+    "Akita Insurance Costs",
+    "Akita Health Coverage",
+    "Akita Insurance Plans",
+    "Saint Bernard Insurance Costs",
+    "Saint Bernard Health Coverage",
+    "Saint Bernard Insurance Plans",
+    "Bull Terrier Insurance Costs",
+    "Bull Terrier Health Coverage",
+    "Bull Terrier Insurance Plans",
+    "Whippet Insurance Costs",
+    "Whippet Health Coverage",
+    "Whippet Insurance Plans",
+    "Chinese Crested Insurance Costs",
+    "Chinese Crested Health Coverage",
+    "Chinese Crested Insurance Plans",
+    "Papillon Insurance Costs",
+    "Papillon Health Coverage",
+    "Papillon Insurance Plans",
+    "Bullmastiff Insurance Costs",
+    "Bullmastiff Health Coverage",
+    "Bullmastiff Insurance Plans",
+    "Soft Coated Wheaten Terrier Insurance Costs",
+    "Soft Coated Wheaten Terrier Health Coverage",
+    "Soft Coated Wheaten Terrier Insurance Plans",
+    "Scottish Terrier Insurance Costs",
+    "Scottish Terrier Health Coverage",
+    "Scottish Terrier Insurance Plans",
+    "Dalmatian Insurance Costs",
+    "Dalmatian Health Coverage",
+    "Dalmatian Insurance Plans",
+    "Airedale Terrier Insurance Costs",
+    "Airedale Terrier Health Coverage",
+    "Airedale Terrier Insurance Plans",
+    "Portuguese Water Dog Insurance Costs",
+    "Portuguese Water Dog Health Coverage",
+    "Portuguese Water Dog Insurance Plans",
+    "Alaskan Malamute Insurance Costs",
+    "Alaskan Malamute Health Coverage",
+    "Alaskan Malamute Insurance Plans",
+    "Australian Cattle Dog Insurance Costs",
+    "Australian Cattle Dog Health Coverage",
+    "Australian Cattle Dog Insurance Plans",
+    "English Setter Insurance Costs",
+    "English Setter Health Coverage",
+    "English Setter Insurance Plans",
+    "Chinese Shar-Pei Insurance Costs",
+    "Chinese Shar-Pei Health Coverage",
+    "Chinese Shar-Pei Insurance Plans",
+    "Cairn Terrier Insurance Costs",
+    "Cairn Terrier Health Coverage",
+    "Cairn Terrier Insurance Plans",
+    "Staffordshire Bull Terrier Insurance Costs",
+    "Staffordshire Bull Terrier Health Coverage",
+    "Staffordshire Bull Terrier Insurance Plans",
+    "Pembroke Welsh Corgi Insurance Costs",
+    "Pembroke Welsh Corgi Health Coverage",
+    "Pembroke Welsh Corgi Insurance Plans",
+    "Irish Setter Insurance Costs",
+    "Irish Setter Health Coverage",
+    "Irish Setter Insurance Plans",
+    "Norwegian Elkhound Insurance Costs",
+    "Norwegian Elkhound Health Coverage",
+    "Norwegian Elkhound Insurance Plans",
+    "Great Pyrenees Insurance Costs",
+    "Great Pyrenees Health Coverage",
+    "Great Pyrenees Insurance Plans",
+    "Old English Sheepdog Insurance Costs",
+    "Old English Sheepdog Health Coverage",
+    "Old English Sheepdog Insurance Plans",
+    "Italian Greyhound Insurance Costs",
+    "Italian Greyhound Health Coverage",
+    "Italian Greyhound Insurance Plans",
+    "Chow Chow Insurance Costs",
+    "Chow Chow Health Coverage",
+    "Chow Chow Insurance Plans",
+    "German Shorthaired Pointer Insurance Costs",
+    "German Shorthaired Pointer Health Coverage",
+    "German Shorthaired Pointer Insurance Plans",
+    "Pekingese Insurance Costs",
+    "Pekingese Health Coverage",
+    "Pekingese Insurance Plans",
+    "Irish Wolfhound Insurance Costs",
+    "Irish Wolfhound Health Coverage",
+    "Irish Wolfhound Insurance Plans",
+    "Miniature Schnauzer Insurance Costs",
+    "Miniature Schnauzer Health Coverage",
+    "Miniature Schnauzer Insurance Plans",
+    "Lhasa Apso Insurance Costs",
+    "Lhasa Apso Health Coverage",
+    "Lhasa Apso Insurance Plans",
+    "German Wirehaired Pointer Insurance Costs",
+    "German Wirehaired Pointer Health Coverage",
+    "German Wirehaired Pointer Insurance Plans",
+    "American Eskimo Dog Insurance Costs",
+    "American Eskimo Dog Health Coverage",
+    "American Eskimo Dog Insurance Plans",
+    "Afghan Hound Insurance Costs",
+    "Afghan Hound Health Coverage",
+    "Afghan Hound Insurance Plans",
+    "English Bulldog Insurance Costs",
+    "English Bulldog Health Coverage",
+    "English Bulldog Insurance Plans",
+    "Samoyed Insurance Costs",
+    "Samoyed Health Coverage",
+    "Samoyed Insurance Plans",
+    "Brittany Insurance Costs",
+    "Brittany Health Coverage",
+    "Brittany Insurance Plans",
+    "Cardigan Welsh Corgi Insurance Costs",
+    "Cardigan Welsh Corgi Health Coverage",
+    "Cardigan Welsh Corgi Insurance Plans",
+    "Flat-Coated Retriever Insurance Costs",
+    "Flat-Coated Retriever Health Coverage",
+    "Flat-Coated Retriever Insurance Plans",
+    "Basenji Insurance Costs",
+    "Basenji Health Coverage",
+    "Basenji Insurance Plans",
+    "English Springer Spaniel Insurance Costs",
+    "English Springer Spaniel Health Coverage",
+    "English Springer Spaniel Insurance Plans",
+    "Brussels Griffon Insurance Costs",
+    "Brussels Griffon Health Coverage",
+    "Brussels Griffon Insurance Plans",
+    "Standard Schnauzer Insurance Costs",
+    "Standard Schnauzer Health Coverage",
+    "Standard Schnauzer Insurance Plans",
+    "Norfolk Terrier Insurance Costs",
+    "Norfolk Terrier Health Coverage",
+    "Norfolk Terrier Insurance Plans",
+    "Wire Fox Terrier Insurance Costs",
+    "Wire Fox Terrier Health Coverage",
+    "Wire Fox Terrier Insurance Plans",
+    "Cavalier King Charles Spaniel Insurance Costs",
+    "Cavalier King Charles Spaniel Health Coverage",
+    "Cavalier King Charles Spaniel Insurance Plans",
+    "Borzoi Insurance Costs",
+    "Borzoi Health Coverage",
+    "Borzoi Insurance Plans",
+    "Chesapeake Bay Retriever Insurance Costs",
+    "Chesapeake Bay Retriever Health Coverage",
+    "Chesapeake Bay Retriever Insurance Plans",
+    "Giant Schnauzer Insurance Costs",
+    "Giant Schnauzer Health Coverage",
+    "Giant Schnauzer Insurance Plans",
+    "Gordon Setter Insurance Costs",
+    "Gordon Setter Health Coverage",
+    "Gordon Setter Insurance Plans",
+    "Japanese Chin Insurance Costs",
+    "Japanese Chin Health Coverage",
+    "Japanese Chin Insurance Plans",
+    "Keeshond Insurance Costs",
+    "Keeshond Health Coverage",
+    "Keeshond Insurance Plans",
+    "Neapolitan Mastiff Insurance Costs",
+    "Neapolitan Mastiff Health Coverage",
+    "Neapolitan Mastiff Insurance Plans",
+    "Norwich Terrier Insurance Costs",
+    "Norwich Terrier Health Coverage",
+    "Norwich Terrier Insurance Plans",
+    "Parson Russell Terrier Insurance Costs",
+    "Parson Russell Terrier Health Coverage",
+    "Parson Russell Terrier Insurance Plans",
+    "Silky Terrier Insurance Costs",
+    "Silky Terrier Health Coverage",
+    "Silky Terrier Insurance Plans",
+    "Tibetan Terrier Insurance Costs",
+    "Tibetan Terrier Health Coverage",
+    "Tibetan Terrier Insurance Plans",
+    "Toy Fox Terrier Insurance Costs",
+    "Toy Fox Terrier Health Coverage",
+    "Toy Fox Terrier Insurance Plans",
+    "Schipperke Insurance Costs",
+    "Schipperke Health Coverage",
+    "Schipperke Insurance Plans",
+    "American Staffordshire Terrier Insurance Costs",
+    "American Staffordshire Terrier Health Coverage",
+    "American Staffordshire Terrier Insurance Plans",
+    "Belgian Malinois Insurance Costs",
+    "Belgian Malinois Health Coverage",
+    "Belgian Malinois Insurance Plans",
+    "Belgian Sheepdog Insurance Costs",
+    "Belgian Sheepdog Health Coverage",
+    "Belgian Sheepdog Insurance Plans",
+    "Belgian Tervuren Insurance Costs",
+    "Belgian Tervuren Health Coverage",
+    "Belgian Tervuren Insurance Plans",
+    "Bernedoodle Insurance Costs",
+    "Bernedoodle Health Coverage",
+    "Bernedoodle Insurance Plans",
+    "Norwegian Forest Cat Health Insurance",
+    "Norwegian Forest Cat Insurance Options",
+    "Norwegian Forest Cat Coverage Plans",
+    "Abyssinian Cat Health Insurance",
+    "Abyssinian Cat Insurance Options",
+    "Abyssinian Cat Coverage Plans",
+    "American Shorthair Cat Health Insurance",
+    "American Shorthair Cat Insurance Options",
+    "American Shorthair Cat Coverage Plans",
+    "Devon Rex Cat Health Insurance",
+    "Devon Rex Cat Insurance Options",
+    "Devon Rex Cat Coverage Plans",
+    "Oriental Shorthair Cat Health Insurance",
+    "Oriental Shorthair Cat Insurance Options",
+    "Oriental Shorthair Cat Coverage Plans",
+    "Birman Cat Health Insurance",
+    "Birman Cat Insurance Options",
+    "Birman Cat Coverage Plans",
+    "American Curl Cat Health Insurance",
+    "American Curl Cat Insurance Options",
+    "American Curl Cat Coverage Plans",
+    "Tonkinese Cat Health Insurance",
+    "Tonkinese Cat Insurance Options",
+    "Tonkinese Cat Coverage Plans",
+    "Ocicat Cat Health Insurance",
+    "Ocicat Cat Insurance Options",
+    "Ocicat Cat Coverage Plans",
+    "Burmese Cat Health Insurance",
+    "Burmese Cat Insurance Options",
+    "Burmese Cat Coverage Plans",
+    "Somali Cat Health Insurance",
+    "Somali Cat Insurance Options",
+    "Somali Cat Coverage Plans",
+    "Turkish Angora Cat Health Insurance",
+    "Turkish Angora Cat Insurance Options",
+    "Turkish Angora Cat Coverage Plans",
+    "Balinese Cat Health Insurance",
+    "Balinese Cat Insurance Options",
+    "Balinese Cat Coverage Plans",
+    "Egyptian Mau Cat Health Insurance",
+    "Egyptian Mau Cat Insurance Options",
+    "Egyptian Mau Cat Coverage Plans",
+    "Manx Cat Health Insurance",
+    "Manx Cat Insurance Options",
+    "Manx Cat Coverage Plans",
+    "Singapura Cat Health Insurance",
+    "Singapura Cat Insurance Options",
+    "Singapura Cat Coverage Plans",
+    "Himalayan Cat Health Insurance",
+    "Himalayan Cat Insurance Options",
+    "Himalayan Cat Coverage Plans",
+    "Japanese Bobtail Cat Health Insurance",
+    "Japanese Bobtail Cat Insurance Options",
+    "Japanese Bobtail Cat Coverage Plans",
+    "Turkish Van Cat Health Insurance",
+    "Turkish Van Cat Insurance Options",
+    "Turkish Van Cat Coverage Plans",
+    "European Burmese Cat Health Insurance",
+    "European Burmese Cat Insurance Options",
+    "European Burmese Cat Coverage Plans",
+    "Chartreux Cat Health Insurance",
+    "Chartreux Cat Insurance Options",
+    "Chartreux Cat Coverage Plans",
+    "Korat Cat Health Insurance",
+    "Korat Cat Insurance Options",
+    "Korat Cat Coverage Plans",
+    "Selkirk Rex Cat Health Insurance",
+    "Selkirk Rex Cat Insurance Options",
+    "Selkirk Rex Cat Coverage Plans",
+    "American Bobtail Cat Health Insurance",
+    "American Bobtail Cat Insurance Options",
+    "American Bobtail Cat Coverage Plans",
+    "Havana Brown Cat Health Insurance",
+    "Havana Brown Cat Insurance Options",
+    "Havana Brown Cat Coverage Plans",
+    "LaPerm Cat Health Insurance",
+    "LaPerm Cat Insurance Options",
+    "LaPerm Cat Coverage Plans",
+    "American Wirehair Cat Health Insurance",
+    "American Wirehair Cat Insurance Options",
+    "American Wirehair Cat Coverage Plans",
+    "Colorpoint Shorthair Cat Health Insurance",
+    "Colorpoint Shorthair Cat Insurance Options",
+    "Colorpoint Shorthair Cat Coverage Plans",
+    "Bombay Cat Health Insurance",
+    "Bombay Cat Insurance Options",
+    "Bombay Cat Coverage Plans",
+    "Cymric Cat Health Insurance",
+    "Cymric Cat Insurance Options",
+    "Cymric Cat Coverage Plans",
+    "Munchkin Cat Health Insurance",
+    "Munchkin Cat Insurance Options",
+    "Munchkin Cat Coverage Plans",
+    "Javanese Cat Health Insurance",
+    "Javanese Cat Insurance Options",
+    "Javanese Cat Coverage Plans",
+    "Snowshoe Cat Health Insurance",
+    "Snowshoe Cat Insurance Options",
+    "Snowshoe Cat Coverage Plans",
+    "York Chocolate Cat Health Insurance",
+    "York Chocolate Cat Insurance Options",
+    "York Chocolate Cat Coverage Plans",
+    "Nebelung Cat Health Insurance",
+    "Nebelung Cat Insurance Options",
+    "Nebelung Cat Coverage Plans",
+    "Peterbald Cat Health Insurance",
+    "Peterbald Cat Insurance Options",
+    "Peterbald Cat Coverage Plans",
+    "Pixiebob Cat Health Insurance",
+    "Pixiebob Cat Insurance Options",
+    "Pixiebob Cat Coverage Plans",
+    "Australian Mist Cat Health Insurance",
+    "Australian Mist Cat Insurance Options",
+    "Australian Mist Cat Coverage Plans"
+  ]
+}
