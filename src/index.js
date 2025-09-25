@@ -10687,7 +10687,208 @@ function getAllKeywords() {
     "Enucleation Pet Insurance Coverage",
     "Splenectomy Pet Insurance Cost",
     "Cystotomy Pet Insurance Coverage",
-    "Enterotomy Pet Insurance Cost"
+    "Enterotomy Pet Insurance Cost",
+    
+    // Deep Mining High-Value Keywords ($35-70 CPC)
+    // Insurance Company + Problem Keywords
+    "Trupanion Complaints",
+    "Healthy Paws Lawsuit",
+    "Embrace Pet Insurance Problems",
+    "Nationwide Pet Insurance Issues",
+    "ASPCA Pet Insurance Complaints",
+    "Pets Best Denied Claims",
+    "Figo Customer Service Problems",
+    "Lemonade Pet Insurance Reviews Negative",
+    "MetLife Pet Insurance Cancellation",
+    "Progressive Pet Insurance Claim Denied",
+    
+    // Specific Waiting Period Keywords
+    "Pet Insurance 6 Month Waiting Period",
+    "Pet Insurance Shortest Waiting Period",
+    "Pet Insurance Bypass Waiting Period",
+    
+    // Specific Percentage Coverage
+    "Pet Insurance 95 Percent Reimbursement",
+    "Pet Insurance 85 Percent Coverage",
+    "Pet Insurance 75 Percent Reimbursement",
+    "Pet Insurance 65 Percent Coverage",
+    "Pet Insurance 50 Percent Reimbursement",
+    "Pet Insurance Actual Cost Coverage",
+    "Pet Insurance Benefit Schedule",
+    "Pet Insurance Coverage Percentage Comparison",
+    
+    // Emergency Specific Keywords
+    "Pet Insurance Emergency Vet Visit",
+    "Pet Insurance After Hours Clinic",
+    "Pet Insurance Weekend Emergency",
+    "Pet Insurance Holiday Emergency Coverage",
+    "Pet Insurance Emergency Transport",
+    "Pet Insurance Emergency Hospitalization",
+    "Pet Insurance Critical Care Coverage",
+    "Pet Insurance ICU Coverage",
+    "Pet Insurance Life Threatening Coverage",
+    
+    // Specific Claim Process Keywords
+    "Pet Insurance Claim Denied Reasons",
+    "Pet Insurance Claim Mistakes",
+    
+    // Comparison with Other Financial Products
+    "Pet Insurance vs Personal Loan",
+    "Pet Insurance vs HSA for Pets",
+    "Pet Insurance vs Crowdfunding",
+    "Pet Insurance vs Veterinary Discount Plan",
+    "Pet Insurance vs Wellness Plan",
+    "Pet Insurance vs Pet Savings Account",
+    "Pet Insurance vs Pet Health Sharing",
+    
+    // Specific Policy Terms
+    "Pet Insurance Annual Deductible",
+    "Pet Insurance Per Incident Deductible",
+    "Pet Insurance Lifetime Limit",
+    "Pet Insurance Annual Limit Reset",
+    "Pet Insurance Benefit Year",
+    "Pet Insurance Policy Year vs Calendar Year",
+    "Pet Insurance Continuous Coverage",
+    "Pet Insurance Gap in Coverage",
+    "Pet Insurance Grace Period",
+    "Pet Insurance Reinstatement",
+    
+    // Specific Customer Demographics
+    "Pet Insurance for College Students",
+    "Pet Insurance for Low Income",
+    "Pet Insurance for Foster Pets",
+    "Pet Insurance for Therapy Animals",
+    "Pet Insurance for Working Animals",
+    
+    // Specific Medical Equipment Coverage
+    "Pet Insurance Prosthetics Coverage",
+    "Pet Insurance Hearing Aids Pets",
+    "Pet Insurance Oxygen Therapy",
+    "Pet Insurance Mobility Aids",
+    "Pet Insurance Medical Devices",
+    "Pet Insurance Prescription Glasses",
+    "Pet Insurance Orthopedic Equipment",
+    "Pet Insurance Therapeutic Devices",
+    "Pet Insurance Adaptive Equipment",
+    
+    // International and Travel Keywords
+    "Pet Insurance Travel Coverage",
+    "Pet Insurance Abroad",
+    "Pet Insurance Vacation Coverage",
+    "Pet Insurance Moving States",
+    "Pet Insurance Multi State Coverage",
+    "Pet Insurance Canada US Coverage",
+    "Pet Insurance Mexico Coverage",
+    "Pet Insurance Airline Travel",
+    
+    // Final Ultra-Specific Keywords ($35-70 CPC)
+    // Question + Action Combos
+    "Why Pet Insurance Is Worth It",
+    "Whose Pet Insurance Is Best",
+    "Whom to Contact Pet Insurance",
+    "Where to Find Pet Insurance Quotes",
+    "How Quickly Pet Insurance Works",
+    
+    // ASAP/Urgency Keywords
+    "Pet Insurance ASAP",
+    "Pet Insurance Quickly",
+    "Pet Insurance Fast Approval",
+    "Pet Insurance Rapid Coverage",
+    "Pet Insurance Express Service",
+    "Pet Insurance Priority Processing",
+    "Pet Insurance Same Hour",
+    "Pet Insurance Instant Decision",
+    "Pet Insurance Quick Quote",
+    "Pet Insurance Speedy Claims",
+    
+    // Specific Denial Reasons
+    "Pet Insurance Claim Denied Pre Existing",
+    "Pet Insurance Claim Denied Late Filing",
+    "Pet Insurance Claim Denied Not Covered",
+    "Pet Insurance Claim Denied Documentation",
+    "Pet Insurance Claim Denied Waiting Period",
+    "Pet Insurance Claim Denied Age Limit",
+    "Pet Insurance Claim Denied Breed Exclusion",
+    "Pet Insurance Claim Denied Experimental",
+    "Pet Insurance Claim Denied Cosmetic",
+    "Pet Insurance Claim Denied Behavioral",
+    
+    // Multi-Pet Specific
+    "Pet Insurance 3 Dogs Discount",
+    "Pet Insurance 4 Cats Pricing",
+    "Pet Insurance 5 Pets Maximum",
+    "Pet Insurance Multiple Species",
+    "Pet Insurance Family Plan Unlimited",
+    "Pet Insurance Household Discount",
+    "Pet Insurance Multi Pet Calculator",
+    "Pet Insurance Bulk Discount",
+    "Pet Insurance Group Rate",
+    "Pet Insurance Pack Coverage",
+    
+    // Specific Contract Terms
+    "Pet Insurance Contract Cancellation",
+    "Pet Insurance Contract Review",
+    "Pet Insurance Contract Loopholes",
+    "Pet Insurance Contract Fine Print",
+    "Pet Insurance Contract Comparison",
+    "Pet Insurance Contract Length",
+    "Pet Insurance Contract Renewal Terms",
+    "Pet Insurance Contract Disputes",
+    "Pet Insurance Contract Lawyer",
+    
+    // Payment Method Keywords
+    "Pet Insurance PayPal Accepted",
+    "Pet Insurance Venmo Payment",
+    "Pet Insurance Apple Pay",
+    "Pet Insurance Google Pay",
+    "Pet Insurance Cash App",
+    "Pet Insurance Wire Transfer",
+    "Pet Insurance Check Payment",
+    "Pet Insurance Payment Options",
+    
+    // Specific Time Frames
+    "Pet Insurance 48 Hour Approval",
+    "Pet Insurance 7 Day Trial",
+    "Pet Insurance 30 Day Guarantee",
+    "Pet Insurance 60 Day Review",
+    "Pet Insurance 90 Day Probation",
+    "Pet Insurance 180 Day Waiting",
+    "Pet Insurance 365 Day Coverage",
+    "Pet Insurance 5 Year Contract",
+    "Pet Insurance 10 Year Guarantee",
+    "Pet Insurance Lifetime Commitment",
+    
+    // Employer/Benefits Keywords
+    "Pet Insurance Employee Benefit",
+    "Pet Insurance Workplace Discount",
+    "Pet Insurance Company Perks",
+    "Pet Insurance Corporate Plan",
+    "Pet Insurance Employer Sponsored",
+    "Pet Insurance Benefits Package",
+    "Pet Insurance HR Department",
+    "Pet Insurance Voluntary Benefit",
+    "Pet Insurance Payroll Deduction",
+    
+    // Specific Life Events
+    "Pet Insurance New Baby",
+    "Pet Insurance Moving Abroad",
+    "Pet Insurance Job Loss",
+    "Pet Insurance Retirement Planning",
+    "Pet Insurance Disability Income",
+    "Pet Insurance Bankruptcy Protection",
+    "Pet Insurance Life Changes",
+    
+    // Technology Integration
+    "Pet Insurance Alexa Skill",
+    "Pet Insurance Google Assistant",
+    "Pet Insurance Siri Shortcuts",
+    "Pet Insurance Fitbit Integration",
+    "Pet Insurance Apple Watch",
+    "Pet Insurance Smart Home",
+    "Pet Insurance IoT Devices",
+    "Pet Insurance API Access",
+    "Pet Insurance Developer Tools",
+    "Pet Insurance Open Banking"
   ];
 }
 
