@@ -10888,7 +10888,180 @@ function getAllKeywords() {
     "Pet Insurance IoT Devices",
     "Pet Insurance API Access",
     "Pet Insurance Developer Tools",
-    "Pet Insurance Open Banking"
+    "Pet Insurance Open Banking",
+    
+    // Ultimate High-Value Keywords - Final Expansion ($50-100 CPC)
+    // Extreme Urgency Keywords
+    "Pet Insurance Right Now",
+    "Pet Insurance This Second",
+    "Pet Insurance Immediately Please",
+    "Pet Insurance Urgent Help",
+    "Pet Insurance Emergency Approval",
+    "Pet Insurance Crisis Coverage",
+    "Pet Insurance Desperate Need",
+    "Pet Insurance Life or Death",
+    "Pet Insurance Critical Situation",
+    "Pet Insurance Help Me Now",
+    
+    // Specific Dollar + Condition Combos
+    "Pet Insurance $10000 Cancer Treatment",
+    "Pet Insurance $5000 Hip Surgery",
+    "Pet Insurance $8000 Heart Surgery",
+    "Pet Insurance $15000 Spinal Surgery",
+    "Pet Insurance $3000 Dental Surgery",
+    "Pet Insurance $12000 Kidney Treatment",
+    "Pet Insurance $20000 Emergency Surgery",
+    "Pet Insurance $7000 Eye Surgery",
+    "Pet Insurance $4000 Skin Treatment",
+    "Pet Insurance $25000 Accident Coverage",
+    
+    // Extreme Comparison Keywords
+    "Pet Insurance Better Than Nothing",
+    "Pet Insurance vs Going Broke",
+    "Pet Insurance vs Euthanasia Decision",
+    "Pet Insurance vs Selling House",
+    "Pet Insurance vs Maxing Credit Cards",
+    "Pet Insurance vs Borrowing Money",
+    "Pet Insurance vs GoFundMe Campaign",
+    "Pet Insurance vs Second Mortgage",
+    "Pet Insurance vs Bankruptcy",
+    
+    // Ultra-Specific Breed + Age + Condition
+    "15 Year Old Labrador Cancer Insurance",
+    "8 Week Old French Bulldog Insurance",
+    "13 Year Old Cat Kidney Insurance",
+    "2 Year Old German Shepherd Hip Insurance",
+    "11 Year Old Poodle Heart Insurance",
+    "16 Year Old Cat Thyroid Insurance",
+    "9 Year Old Golden Retriever Insurance",
+    "14 Year Old Dachshund Back Insurance",
+    "3 Month Old Kitten Insurance",
+    "17 Year Old Dog Insurance Possible",
+    
+    // Specific Treatment + Cost + Coverage
+    "Chemotherapy Pet Insurance Coverage Amount",
+    "Radiation Therapy Pet Insurance Cost",
+    "Dialysis Pet Insurance Coverage",
+    "Organ Transplant Pet Insurance",
+    "Brain Surgery Pet Insurance Coverage",
+    "Heart Valve Replacement Pet Insurance",
+    "Artificial Joint Pet Insurance Coverage",
+    "Stem Cell Treatment Insurance Coverage",
+    "Gene Therapy Pet Insurance",
+    "Experimental Drug Coverage Pet Insurance",
+    
+    // Extreme Financial Situations
+    "Pet Insurance Bad Credit OK",
+    "Pet Insurance Payment Plan Available",
+    "Pet Insurance Defer First Payment",
+    "Pet Insurance Income Based Pricing",
+    "Pet Insurance Sliding Scale",
+    "Pet Insurance Charity Options",
+    "Pet Insurance Government Assistance",
+    "Pet Insurance Poverty Discount",
+    
+    // Super Specific Time Windows
+    "Pet Insurance Within 1 Hour",
+    "Pet Insurance Next 30 Minutes",
+    "Pet Insurance by Midnight Tonight",
+    "Pet Insurance Before Surgery Tomorrow",
+    "Pet Insurance Activates in 2 Hours",
+    "Pet Insurance Backdated Coverage",
+    "Pet Insurance Retroactive Claims",
+    "Pet Insurance While at Vet",
+    "Pet Insurance During Emergency",
+    
+    // Extreme Specific Scenarios
+    "Pet Insurance Dog Hit by Car",
+    "Pet Insurance Cat Fell From Balcony",
+    "Pet Insurance Dog Ate Chocolate",
+    "Pet Insurance Cat Poisoned",
+    "Pet Insurance Dog Attacked",
+    "Pet Insurance Cat Burned",
+    "Pet Insurance Dog Drowning",
+    "Pet Insurance Cat Electrocuted",
+    "Pet Insurance Dog Snake Bite",
+    "Pet Insurance Cat Bee Sting Reaction",
+    
+    // Ultra-Specific Policy Features
+    "Pet Insurance First Dollar Coverage",
+    "Pet Insurance No Paperwork",
+    "Pet Insurance Auto Approval",
+    "Pet Insurance Guaranteed Acceptance",
+    "Pet Insurance No Medical Records",
+    "Pet Insurance Honor Any Vet",
+    "Pet Insurance Worldwide Coverage",
+    "Pet Insurance Lifetime Price Lock",
+    
+    // Extreme Emotional Keywords
+    "Pet Insurance Save My Dog Life",
+    "Pet Insurance Cant Lose My Cat",
+    "Pet Insurance Family Member Dying",
+    "Pet Insurance Heartbroken Owner",
+    "Pet Insurance Last Hope",
+    "Pet Insurance Miracle Needed",
+    "Pet Insurance Desperate Situation",
+    "Pet Insurance Please Help Us",
+    "Pet Insurance Crying Owner",
+    "Pet Insurance Devastating Diagnosis",
+    
+    // Voice Search Natural Questions
+    "Hey Google Does Pet Insurance Cover Surgeries",
+    "Alexa What Is the Best Pet Insurance",
+    "Siri How Much Does Pet Insurance Cost Monthly",
+    "OK Google Is Pet Insurance Worth It for Cats",
+    "Hey Siri Where Can I Buy Pet Insurance",
+    "Alexa Which Pet Insurance Covers Pre Existing",
+    "Find Me Pet Insurance Near Me",
+    "Show Me Pet Insurance Quotes",
+    "I Need Pet Insurance Right Now",
+    "Help Me Find Affordable Pet Insurance",
+    
+    // Conversational Long-Tail
+    "My Dog Needs Surgery Can I Get Insurance Now",
+    "What Happens If My Cat Gets Sick Without Insurance",
+    "How Do I Know If Pet Insurance Is Good",
+    "Can I Use Pet Insurance at Any Vet",
+    "Will Pet Insurance Pay for My Dogs Surgery",
+    "What Pet Insurance Do Vets Recommend",
+    "Why Is Pet Insurance So Expensive",
+    "When Should I Get Pet Insurance for Puppy",
+    "Where Is the Cheapest Pet Insurance",
+    
+    // Emergency Voice Searches
+    "My Dog Is Hurt Need Insurance Now",
+    "Cat Emergency Vet Insurance Help",
+    "Pet Insurance for Emergency Surgery Today",
+    "Urgent Pet Insurance My Dog Is Sick",
+    "Help Dog Accident Need Insurance",
+    "Emergency Vet Accepts What Insurance",
+    "Pet Insurance Covers Emergency Visits",
+    "Find Emergency Pet Insurance Coverage",
+    "Get Pet Insurance for Sick Dog",
+    "Insurance for Pet Emergency Right Now",
+    
+    // Specific Voice Queries
+    "Pet Insurance Covers Teeth Cleaning",
+    "Does Pet Insurance Pay for Vaccines",
+    "Pet Insurance Includes Flea Medicine",
+    "Which Insurance Covers Dog ACL Surgery",
+    "Pet Insurance That Covers Heartworm",
+    "Insurance Covers Cat Dental Work",
+    "Pet Insurance Pays for Prescriptions",
+    "Does Insurance Cover Pet Allergies",
+    "Pet Insurance Includes Annual Checkup",
+    
+    // Location Voice Searches
+    "Pet Insurance Companies Near Me Open Now",
+    "Find Pet Insurance Office in My Area",
+    "Pet Insurance Agents Close to Me",
+    "Best Pet Insurance in My City",
+    "Local Pet Insurance Representatives",
+    "Pet Insurance Near My Location",
+    "Closest Pet Insurance Company",
+    "Pet Insurance in My Neighborhood",
+    "Find Pet Insurance Near My Zip Code",
+    "Pet Insurance Offices Around Me"
   ];
 }
 
